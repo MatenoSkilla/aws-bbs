@@ -1,0 +1,14 @@
+{
+  "name": "aws-bbs",
+  "version": "1.0.0",
+  "description": "Node.js掲示板アプリ（Docker対応）",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0"
+  }
+}
