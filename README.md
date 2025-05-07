@@ -18,6 +18,6 @@ Node.js掲示板アプリ（Docker構成、RDS想定）
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/your-username/aws-bbs.git
+git clone https://github.com/MatenoSkilla/aws-bbs.git
 cd aws-bbs
 
